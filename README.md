@@ -24,7 +24,7 @@ Once registered, customers will receive personalized email notifications with th
 ## Technical Details
 
 Behind the scenes, our FlightTracker uses Google Sheets as a temporary database to store customer information. While this approach is effective for the current version, we are continuously working to enhance and expand our database capabilities for a more robust user experience.
-Also, it is currently a command-line application. However, in the coming months, a web-interface will be designed for its front-end.
+Also, it is currently a command-line application. However, a web-interface will be designed for its front-end.
 
 ## Acknowledgments
 
